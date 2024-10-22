@@ -2,7 +2,7 @@
   <h3 align="center">postquery</h3>
 
   <p align="center">
-    Minimalistic and experimental postgres client using rust
+    Minimalistic and experimental postgres client using tauri/rust
   </p>
 </div>
 
